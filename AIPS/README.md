@@ -2,4 +2,4 @@
 requiere:
 tkinter,
 colorama,
-tqdm,
+tqdm
