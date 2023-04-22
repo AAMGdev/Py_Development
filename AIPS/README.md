@@ -1,5 +1,5 @@
-#AIPS (beta)
+# AIPS (beta)
 requiere:
-tkinter
-colorama
-tqdm
+tkinter,
+colorama,
+tqdm,
