@@ -1,5 +1,5 @@
 # AIPS (beta)
-requiere:
+requires:
 tkinter,
 colorama,
-tqdm
+tqdm,
